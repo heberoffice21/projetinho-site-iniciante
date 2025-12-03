@@ -1,0 +1,50 @@
+forma mais facil utilizando uma interface dentro da ide vs code
+
+
+### Enviando uma alteração para o github (local + nuvem (repositório) )
+
+1° altere o arquivo
+
+2° clique no ícone do github dentro do visual code (estará sinalizando que foi alterado mostrando número das alterações pequenininho no simbolo do github no visual code)
+
+3° ao clicar nesse ícone, abrira uma aba com uma opção chamada "changes" onde al clicar nela para expandir irá mostrar os arquivos que sofreram alterações.
+-clique no simbolo de "+" para adicionar os arquivos que deseja enviar para o github (local)
+
+
+4° ao adiciona-los eles irão aparecer na seção "staged changes"
+
+5° agora escreva uma pequena descrição sobre as alterações e clique na opção "commit" para fazer o commit (ou seja enviar as alterações para o github local.
+
+6° agora clique em "sync changes" para que os arquivos sejam enviados para a nuvem (repositório online ) do github.
+
+_______________________________________
+
+#### baixando uma atualização (ex. uma alteração de algum colaborador do projeto)
+ do github para o pc (git local)
+
+1° clique no ícone github dentro do visual code, e depois clique nos "3 pontinhos" ao lado de "source control" dentro da aba que foi aberta ao clicar no ícone do github.
+
+2° ao abrir as opções, clique em "pull"
+
+obs . se der erro, observar se tem algum conflito nos arquivos a serem baixados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

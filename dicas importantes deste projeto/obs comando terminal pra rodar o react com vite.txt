@@ -1,0 +1,10 @@
+sempre que for trabalhar no projeto react, abra a pasta do projeto
+-aperte o 3 botão do mouse , e escolha a opção pra abrir o terminal
+
+depois de esse comando:
+
+npm run dev
+
+ (para que o terminal crie um servidor para que o navegador reconheça a linguagem de react (obs o navegador só ira ler se tiver esse servidor rodando no terminal) o vite faz a ponte entre o react e o navegador) 
+
+ 
